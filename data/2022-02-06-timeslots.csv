@@ -745,3 +745,27 @@ SampleTime,startTimeslot,maximumCapacity,bookings,availableCapacity,hasAvailabil
 2022-02-06 18:40:21,2022-02-06 20:45:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
 2022-02-06 18:40:21,2022-02-06 20:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
 2022-02-06 18:40:21,2022-02-06 20:45:00+00:00,15,0,15,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 19:15:00+00:00,15,1,14,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 19:15:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
+2022-02-06 19:10:44,2022-02-06 19:15:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-06 19:10:44,2022-02-06 19:15:00+00:00,50,2,48,True,senile-pulsar,2544,Den Haag,True
+2022-02-06 19:10:44,2022-02-06 19:30:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
+2022-02-06 19:10:44,2022-02-06 19:30:00+00:00,50,0,50,True,senile-pulsar,2544,Den Haag,True
+2022-02-06 19:10:44,2022-02-06 19:30:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-06 19:10:44,2022-02-06 19:30:00+00:00,15,0,15,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 19:45:00+00:00,50,2,48,True,senile-pulsar,2544,Den Haag,True
+2022-02-06 19:10:44,2022-02-06 19:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-06 19:10:44,2022-02-06 19:45:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
+2022-02-06 19:10:44,2022-02-06 19:45:00+00:00,15,0,15,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 20:00:00+00:00,15,0,15,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 20:00:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-06 19:10:44,2022-02-06 20:00:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
+2022-02-06 19:10:44,2022-02-06 20:15:00+00:00,15,0,15,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 20:15:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
+2022-02-06 19:10:44,2022-02-06 20:15:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-06 19:10:44,2022-02-06 20:30:00+00:00,15,0,15,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 20:30:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-06 19:10:44,2022-02-06 20:30:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
+2022-02-06 19:10:44,2022-02-06 20:45:00+00:00,15,0,15,True,oblique-table,4824,Breda,True
+2022-02-06 19:10:44,2022-02-06 20:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-06 19:10:44,2022-02-06 20:45:00+00:00,0,0,0,False,oily-wire,3769,Soesterberg,True
