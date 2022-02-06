@@ -1,2 +1,2 @@
 # ggd-son-availability-pub
-Some SON locations are helping out the GGD with testing. This repo contains data scraped and anonymized from the https://www.coronatestafspraak.nl/ API.
+Some of the SON locations have started helping out the GGD with COVID testing. This repo contains timeslot availability data as scraped and anonymized from the https://www.coronatestafspraak.nl/ API.
