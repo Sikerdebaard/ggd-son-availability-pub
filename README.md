@@ -30,6 +30,9 @@ Available timeslots as scanned for today. While the reservation system allows bo
 ### Additional csv files
 There are additional timestamped files available in the [data/](data/) folder. These files contain what is described in the above chapters but for a specific day. This allows one to easily look up historical data.
 
+### Scraper
+The scraper script is currently not public. This is because the [https://www.coronatestafspraak.nl/](https://www.coronatestafspraak.nl/) API seems to leak some sensitive fields to the public, e.g. email adress, phone numbers and email adresses of the testing locations. Because of this the scraper and anonymization script are run in a separate private repo and the results are synchronzed about once an hour to this repo.
+
 ## License
 The anonymized data is licensed CC0. The original data is copyright [https://www.coronatestafspraak.nl/](https://www.coronatestafspraak.nl/).
 
