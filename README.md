@@ -29,3 +29,8 @@ Available timeslots as scanned for today. While the reservation system allows bo
 
 ### Additional csv files
 There are additional timestamped files available in the [data/](data/) folder. These files contain what is described in the above chapters but for a specific day. This allows one to easily look up historical data.
+
+## License
+The anonymized data is licensed CC0. The original data is copyright [https://www.coronatestafspraak.nl/](https://www.coronatestafspraak.nl/).
+
+Please cite: `Phil, T. (2022). Sikerdebaard/ggd-son-availability-pub. GitHub Repository. Retrieved Month Day, Year, from https://github.com/Sikerdebaard/ggd-son-availability-pub`
