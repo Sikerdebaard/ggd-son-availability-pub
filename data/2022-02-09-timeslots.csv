@@ -13167,3 +13167,9 @@ SampleTime,startTimeslot,maximumCapacity,bookings,availableCapacity,hasAvailabil
 2022-02-09 19:11:24+00:00,2022-02-09 20:45:00+00:00,20,0,20,True,senile-pulsar,2544,Den Haag,True
 2022-02-09 19:11:24+00:00,2022-02-09 20:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
 2022-02-09 19:11:24+00:00,2022-02-09 20:45:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
+2022-02-09 20:14:59+00:00,2022-02-09 20:15:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 20:14:59+00:00,2022-02-09 20:15:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
+2022-02-09 20:14:59+00:00,2022-02-09 20:30:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 20:14:59+00:00,2022-02-09 20:30:00+00:00,50,1,49,True,oily-wire,3769,Soesterberg,True
+2022-02-09 20:14:59+00:00,2022-02-09 20:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 20:14:59+00:00,2022-02-09 20:45:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
