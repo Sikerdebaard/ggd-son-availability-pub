@@ -13131,3 +13131,39 @@ SampleTime,startTimeslot,maximumCapacity,bookings,availableCapacity,hasAvailabil
 2022-02-09 18:16:37+00:00,2022-02-09 20:45:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
 2022-02-09 18:16:37+00:00,2022-02-09 20:45:00+00:00,20,0,20,True,senile-pulsar,2544,Den Haag,True
 2022-02-09 18:16:37+00:00,2022-02-09 20:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,6,1,5,True,many-sofa,5121,Rijen,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,20,1,19,True,senile-pulsar,2544,Den Haag,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,12,3,9,True,optimal-template,6545,Nijmegen,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,18,3,15,True,warm-cash,3044,Rotterdam,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,12,0,12,True,glossy-arneis,5342,Oss,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,18,0,18,True,adjacent-string,4815,Breda,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:15:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,18,0,18,True,adjacent-string,4815,Breda,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,12,1,11,True,glossy-arneis,5342,Oss,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,20,1,19,True,senile-pulsar,2544,Den Haag,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,18,2,16,True,warm-cash,3044,Rotterdam,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,12,3,9,True,optimal-template,6545,Nijmegen,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,6,1,5,True,many-sofa,5121,Rijen,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:30:00+00:00,50,3,47,True,oily-wire,3769,Soesterberg,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,20,0,20,True,senile-pulsar,2544,Den Haag,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,6,0,6,True,many-sofa,5121,Rijen,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,12,1,11,True,optimal-template,6545,Nijmegen,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,18,0,18,True,warm-cash,3044,Rotterdam,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,18,0,18,True,adjacent-string,4815,Breda,True
+2022-02-09 19:11:24+00:00,2022-02-09 19:45:00+00:00,12,1,11,True,glossy-arneis,5342,Oss,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:00:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:00:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:00:00+00:00,20,0,20,True,senile-pulsar,2544,Den Haag,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:15:00+00:00,20,0,20,True,senile-pulsar,2544,Den Haag,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:15:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:15:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:30:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:30:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:30:00+00:00,20,0,20,True,senile-pulsar,2544,Den Haag,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:45:00+00:00,20,0,20,True,senile-pulsar,2544,Den Haag,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:45:00+00:00,0,0,0,False,weathered-bronze,3439,Nieuwegein,True
+2022-02-09 19:11:24+00:00,2022-02-09 20:45:00+00:00,50,0,50,True,oily-wire,3769,Soesterberg,True
